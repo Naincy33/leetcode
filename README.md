@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Naincy33/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Array
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/Naincy33/leetcode/tree/master/0041-first-missing-positive) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/Naincy33/leetcode/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
