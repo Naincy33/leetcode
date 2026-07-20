@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Naincy33/leetcode/tree/master/0029-divide-two-integers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Naincy33/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Naincy33/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Naincy33/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Naincy33/leetcode/tree/master/0029-divide-two-integers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Naincy33/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
