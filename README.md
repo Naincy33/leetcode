@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Naincy33/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Naincy33/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Naincy33/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Naincy33/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Naincy33/leetcode/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Naincy33/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Naincy33/leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Naincy33/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Naincy33/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Naincy33/leetcode/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/Naincy33/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Naincy33/leetcode/tree/master/0036-valid-sudoku) |
 | [0835-image-overlap](https://github.com/Naincy33/leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Naincy33/leetcode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Naincy33/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
