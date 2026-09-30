@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Naincy33/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Naincy33/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Naincy33/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Naincy33/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Naincy33/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Naincy33/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Naincy33/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Naincy33/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Naincy33/leetcode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Naincy33/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Naincy33/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naincy33/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Naincy33/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Naincy33/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Naincy33/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Naincy33/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Naincy33/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -456,4 +459,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Naincy33/leetcode/tree/master/0099-recover-binary-search-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Naincy33/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Naincy33/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
