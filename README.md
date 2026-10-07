@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Naincy33/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Naincy33/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0399-evaluate-division](https://github.com/Naincy33/leetcode/tree/master/0399-evaluate-division) |
+| [0480-sliding-window-median](https://github.com/Naincy33/leetcode/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/Naincy33/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naincy33/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Naincy33/leetcode/tree/master/0835-image-overlap) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Naincy33/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0349-intersection-of-two-arrays](https://github.com/Naincy33/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Naincy33/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0480-sliding-window-median](https://github.com/Naincy33/leetcode/tree/master/0480-sliding-window-median) |
 | [1331-rank-transform-of-an-array](https://github.com/Naincy33/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Naincy33/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Naincy33/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0480-sliding-window-median](https://github.com/Naincy33/leetcode/tree/master/0480-sliding-window-median) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Naincy33/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Naincy33/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0480-sliding-window-median](https://github.com/Naincy33/leetcode/tree/master/0480-sliding-window-median) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Naincy33/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Naincy33/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Naincy33/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -482,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Naincy33/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Naincy33/leetcode/tree/master/0678-valid-parenthesis-string) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/Naincy33/leetcode/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
