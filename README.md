@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Naincy33/leetcode/tree/master/0399-evaluate-division) |
 | [0678-valid-parenthesis-string](https://github.com/Naincy33/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Naincy33/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/Naincy33/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Naincy33/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/Naincy33/leetcode/tree/master/1927-sum-game) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Naincy33/leetcode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Naincy33/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Naincy33/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Naincy33/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Naincy33/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Naincy33/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Naincy33/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Naincy33/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Treap
 |  |
 | ------- |
