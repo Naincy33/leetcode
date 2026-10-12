@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Naincy33/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Naincy33/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Naincy33/leetcode/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/Naincy33/leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Naincy33/leetcode/tree/master/0151-reverse-words-in-a-string) |
