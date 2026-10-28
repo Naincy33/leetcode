@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Naincy33/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Naincy33/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Naincy33/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Naincy33/leetcode/tree/master/0049-group-anagrams) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Naincy33/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Naincy33/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Naincy33/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Naincy33/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Naincy33/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Naincy33/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -480,10 +482,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Naincy33/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Naincy33/leetcode/tree/master/0187-repeated-dna-sequences) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Naincy33/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Naincy33/leetcode/tree/master/0187-repeated-dna-sequences) |
 ## Binary Search Tree
 |  |
@@ -507,4 +511,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/Naincy33/leetcode/tree/master/0480-sliding-window-median) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Naincy33/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Naincy33/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
