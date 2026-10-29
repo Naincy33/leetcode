@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Naincy33/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Naincy33/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Naincy33/leetcode/tree/master/0041-first-missing-positive) |
+| [0047-permutations-ii](https://github.com/Naincy33/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Naincy33/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Naincy33/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Naincy33/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Naincy33/leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Naincy33/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Naincy33/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Naincy33/leetcode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Naincy33/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Naincy33/leetcode/tree/master/0047-permutations-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Naincy33/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |
