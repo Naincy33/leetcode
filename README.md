@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Naincy33/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Naincy33/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/Naincy33/leetcode/tree/master/1563-stone-game-v) |
+| [1672-richest-customer-wealth](https://github.com/Naincy33/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1872-stone-game-viii](https://github.com/Naincy33/leetcode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Naincy33/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Naincy33/leetcode/tree/master/2029-stone-game-ix) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Naincy33/leetcode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Naincy33/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Naincy33/leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1672-richest-customer-wealth](https://github.com/Naincy33/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Sorting
 |  |
 | ------- |
