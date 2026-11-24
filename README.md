@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Naincy33/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Naincy33/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0480-sliding-window-median](https://github.com/Naincy33/leetcode/tree/master/0480-sliding-window-median) |
+| [0567-permutation-in-string](https://github.com/Naincy33/leetcode/tree/master/0567-permutation-in-string) |
 | [1122-relative-sort-array](https://github.com/Naincy33/leetcode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Naincy33/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Naincy33/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Naincy33/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/Naincy33/leetcode/tree/master/0344-reverse-string) |
 | [0399-evaluate-division](https://github.com/Naincy33/leetcode/tree/master/0399-evaluate-division) |
+| [0567-permutation-in-string](https://github.com/Naincy33/leetcode/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Naincy33/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Naincy33/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Naincy33/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Naincy33/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Naincy33/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Naincy33/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/Naincy33/leetcode/tree/master/0567-permutation-in-string) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Naincy33/leetcode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2540-minimum-common-value](https://github.com/Naincy33/leetcode/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Naincy33/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Naincy33/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0480-sliding-window-median](https://github.com/Naincy33/leetcode/tree/master/0480-sliding-window-median) |
+| [0567-permutation-in-string](https://github.com/Naincy33/leetcode/tree/master/0567-permutation-in-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Naincy33/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Naincy33/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Naincy33/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
