@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Naincy33/leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Naincy33/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Naincy33/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Naincy33/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Naincy33/leetcode/tree/master/0049-group-anagrams) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Naincy33/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Naincy33/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Naincy33/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Naincy33/leetcode/tree/master/0038-count-and-say) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Naincy33/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Naincy33/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0480-sliding-window-median](https://github.com/Naincy33/leetcode/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/Naincy33/leetcode/tree/master/0567-permutation-in-string) |
